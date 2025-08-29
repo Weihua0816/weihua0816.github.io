@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weihua0816.github.io/sitemap.xml
